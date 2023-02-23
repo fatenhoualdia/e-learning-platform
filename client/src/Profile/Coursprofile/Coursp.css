@@ -1,0 +1,31 @@
+.pdfframe {
+  margin-top: -300px;
+  min-height: 80vh;
+}
+
+.pdfframe h1 {
+  padding-bottom: 10px;
+  text-align: center;
+}
+.pdfframe iframe {
+  height: 450px;
+  border: 0px solid black;
+}
+.pdfblock {
+  background-color: #fff;
+  width: 1000px;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  padding-top: 5vh !important;
+}
+.no_courses {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+  

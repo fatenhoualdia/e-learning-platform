@@ -1,0 +1,15 @@
+.footer {
+  display: flex;
+  justify-content: space-around;
+
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+li a {
+  color: white;
+}

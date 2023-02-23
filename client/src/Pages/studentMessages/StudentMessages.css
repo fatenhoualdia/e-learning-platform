@@ -1,0 +1,110 @@
+.signature {
+  width: 750px;
+  border-radius: 5px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+  position: relative;
+  padding: 15px;
+  overflow: hidden;
+}
+
+.signature .image-email img {
+  height: 130px;
+  width: 130px;
+  border: 5px solid #fff;
+  border-radius: 50%;
+  position: relative;
+}
+
+.signature .image-email::before {
+  content: "";
+  position: absolute;
+  top: -6%;
+  left: -18%;
+  height: 330px;
+  width: 300px;
+  background: #608540;
+  border-radius: 50%;
+  border: 10px solid #fff;
+  box-shadow: 0 0 0 25px #608540;
+}
+.signature .support {
+  width: 100%;
+  padding-left: 80px;
+  text-align: center;
+}
+
+.signature .support .nameemeil {
+  color: #252641;
+  letter-spacing: 2px;
+}
+.signature .support .nameemeil span {
+  color: #608540;
+}
+.signature .support .post {
+  margin: 10px 0;
+  padding: 5px 0;
+  background: #608540;
+  color: #fff;
+  border-radius: 50px;
+  font-weight: lighter;
+}
+
+.signature .support .info-email {
+  margin-top: 20px;
+}
+.signature .support .info-email li {
+  margin: 10px 0;
+  list-style-type: none;
+  font-size: 17px;
+  text-align: left;
+  color: #6c6c6c;
+}
+
+.signature .support .info-email li ion-icon {
+  padding: 0 10px;
+  color: #608540;
+}
+
+.signature .support .lienprofile {
+  width: 99px;
+  margin-top: 28px;
+  margin-left: 354px;
+  margin-bottom: 15px;
+  background-color: #608540;
+  border-radius: 50%;
+}
+.signature .support .lienprofile a {
+  line-height: 35px;
+  color: #fff;
+  border: 2px solid #608540;
+  border-radius: 10%;
+}
+
+.signature .support .lienprofile a:hover {
+  background-color: #608540;
+  color: rgb(154, 172, 53);
+}
+
+.upload_btn {
+  background-color: #608540;
+  color: white;
+  padding: 1vw;
+  border-radius: 15px;
+  margin-bottom: 50px;
+}
+
+.logout_btn {
+  background-color: #d43c0e;
+  color: white;
+  padding: 1vw;
+  border-radius: 15px;
+}
+
+.h2 {
+  background-color: #252641;
+}
+
+  

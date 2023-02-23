@@ -1,0 +1,419 @@
+<div className="box-container">
+  <div className="box">
+    <div className="image">
+      <img src="course-2-1.jpg" alt="test" />
+      <h3>development</h3>
+    </div>
+    <div className="conten">
+      <h3>choose what's best for you!</h3>
+      <p>
+        The customer himself, the customer will be able to pursue the adipiscing of the company. And she
+        he hates it!
+      </p>
+      <Link to="/cours/descr" className="btn">
+        read more
+      </Link>
+      <div className="icons">
+        <span>
+          {" "}
+          <ion-icon name="book-outline"></ion-icon> 12 modules{" "}
+        </span>
+        <span>
+          {" "}
+          <ion-icon name="time-outline"></ion-icon> 6 hours{" "}
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <div className="box">
+    <div className="image">
+      <img src="course-2-2.jpg" alt="" />
+      <h3>engineering</h3>
+    </div>
+    <div className="conten">
+      <h3>choose what's best for you!</h3>
+      <p>
+        The customer himself, the customer will be able to pursue the adipiscing of the company. And she
+        he hates it!
+      </p>
+      <a href="#" className="btn">
+        read more
+      </a>
+      <div className="icons">
+        <span>
+          {" "}
+          <ion-icon name="book-outline"></ion-icon> 12 modules{" "}
+        </span>
+        <span>
+          {" "}
+          <ion-icon name="time-outline"></ion-icon> 6 hours{" "}
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <div className="box">
+    <div className="image">
+      <img src="course-2-3.jpg" alt="" />
+      <h3>mathemetics</h3>
+    </div>
+    <div className="conten">
+      <h3>choose what's best for you!</h3>
+      <p>
+        The customer himself, the customer will be able to pursue the adipiscing of the company. And she
+        hey you hate it!
+      </p>
+      <a href="#" className="btn">
+        read more
+      </a>
+      <div className="icons">
+        <span>
+          {" "}
+          <ion-icon name="book-outline"></ion-icon>12 modules{" "}
+        </span>
+        <span>
+          {" "}
+          <ion-icon name="time-outline"></ion-icon>  6 hours{" "}
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <div class="box">
+    <div class="image">
+      <img src="course-2-4.jpg" alt="" />
+      <h3>doctor</h3>
+    </div>
+    <div class="conten">
+      <h3>choose what's best for you!</h3>
+      <p>
+        The customer himself, the customer will be able to pursue the adipiscing of the company. And she
+        hey you hate it!
+      </p>
+      <a href="#" class="btn">
+        read more
+      </a>
+      <div class="icons">
+        <span>
+          {" "}
+          <ion-icon name="book-outline"></ion-icon> 12 modules{" "}
+        </span>
+        <span>
+          {" "}
+          <ion-icon name="time-outline"></ion-icon>  6 hours{" "}
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <div class="box">
+    <div class="image">
+      <img src="course-2-5.jpg" alt="" />
+      <h3>science</h3>
+    </div>
+    <div class="conten">
+      <h3>choose what's best for you!</h3>
+      <p>
+        The customer himself, the customer will be able to pursue the adipiscing of the company. And she
+        hey you hate it!
+      </p>
+      <a href="#" class="btn">
+        read more
+      </a>
+      <div class="icons">
+        <span>
+          {" "}
+          <ion-icon name="book-outline"></ion-icon> 12 modules{" "}
+        </span>
+        <span>
+          {" "}
+          <ion-icon name="time-outline"></ion-icon>  6 hours{" "}
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <div class="box">
+    <div class="image">
+      <img src="course-2-6.jpg" alt="" />
+      <h3>business</h3>
+    </div>
+    <div class="conten">
+      <h3>choose what's best for you!</h3>
+      <p>
+        The customer himself, the customer will be able to pursue the adipiscing of the company. And she
+        hey you hate it!
+      </p>
+      <a href="#" class="btn">
+        read more
+      </a>
+      <div class="icons">
+        <span>
+          {" "}
+          <ion-icon name="book-outline"></ion-icon> 12 modules{" "}
+        </span>
+        <span>
+          {" "}
+          <ion-icon name="time-outline"></ion-icon>  6 hours{" "}
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <div class="box hide">
+    <div class="image">
+      <img src="course-2-7.jpg" alt="" />
+      <h3>teaching</h3>
+    </div>
+    <div class="conten">
+      <h3>choose what's best for you!</h3>
+      <p>
+        The customer himself, the customer will be able to pursue the adipiscing of the company. And she
+        hey you hate it!
+      </p>
+      <a href="#" class="btn">
+        read more
+      </a>
+      <div class="icons">
+        <span>
+          {" "}
+          <ion-icon name="book-outline"></ion-icon> 12 modules{" "}
+        </span>
+        <span>
+          {" "}
+          <ion-icon name="time-outline"></ion-icon>  6 hours{" "}
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <div class="box hide">
+    <div class="image">
+      <img src="course-2-8.jpg" alt="" />
+      <h3>designing</h3>
+    </div>
+    <div class="conten">
+      <h3>choose what's best for you!</h3>
+      <p>
+        The customer himself, the customer will be able to pursue the adipiscing of the company. And she
+        hey you hate it!
+      </p>
+      <a href="#" class="btn">
+        read more
+      </a>
+      <div class="icons">
+        <span>
+          {" "}
+          <ion-icon name="book-outline"></ion-icon> 12 modules{" "}
+        </span>
+        <span>
+          {" "}
+          <ion-icon name="time-outline"></ion-icon>  6 hours{" "}
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <div class="box hide">
+    <div class="image">
+      <img src="course-2-9.jpg" alt="" />
+      <h3>dancing</h3>
+    </div>
+    <div class="conten">
+      <h3>choose what's best for you!</h3>
+      <p>
+        The customer himself, the customer will be able to pursue the adipiscing of the company. And she
+        hey you hate it!
+      </p>
+      <a href="#" class="btn">
+        read more
+      </a>
+      <div class="icons">
+        <span>
+          {" "}
+          <i class="fas fa-book"></i> 12 modules{" "}
+        </span>
+        <span>
+          {" "}
+          <i class="fas fa-clock"></i> 6 hours{" "}
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.heading {
+text-align: center;
+font-size: 4rem;
+margin-top: 7px;
+padding: 24px;
+color: #464646;
+background: rgba(150, 255, 51, 0.05);
+}
+.heading span {
+color: #608540;
+}
+.courses .box-container {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-around;
+align-items: center;
+grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+margin-top: 58px;
+}
+.courses .box-container .box {
+margin-bottom: 30px;
+}
+.courses .box-container .box:hover .image img {
+-webkit-transform: scale(1.1);
+transform: scale(1.1);
+}
+
+.courses .box-container .box.hide {
+display: none;
+}
+
+.courses .box-container .box .image {
+height: 195px;
+width: 336px;
+overflow: hidden;
+position: relative;
+}
+.courses .box-container .box .image img {
+height: 100%;
+width: 100%;
+-o-object-fit: cover;
+object-fit: cover;
+}
+
+.courses .box-container .box .image h3 {
+font-size: 1rem;
+text-transform: capitalize;
+color: #444;
+position: absolute;
+top: 0rem;
+width: 90px;
+height: 3px;
+left: -17rem;
+color: yellow;
+background: #fff;
+}
+
+.courses .box-container .box .conten {
+padding: 2rem;
+width: 336px;
+text-align: center;
+border: 0.1rem solid #608540;
+}
+
+.courses .box-container .box .conten h3 {
+font-size: 1.5rem;
+margin-top: -13px;
+text-transform: capitalize;
+color: #444;
+}
+
+.courses .box-container .box .conten p {
+padding: 1rem 0;
+font-size: 1.2rem;
+line-height: 2;
+margin-top: -22px;
+color: #777;
+}
+
+.courses .box-container .box .conten .icons {
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin-top: 1rem;
+padding-top: 1rem;
+margin-left: -11px;
+border-top: 0.1rem solid #608540;
+}
+
+.courses .box-container .box .conten .icons span {
+font-size: 1.2rem;
+text-transform: capitalize;
+color: #444;
+}
+
+.courses .box-container .box .conten .icons span i {
+color: #608540;
+padding-right: 0.5rem;
+}
+
+.courses .load-more {
+margin-top: 2rem;
+text-align: center;
+}
+.btn {
+display: inline-block;
+margin-top: -1rem;
+padding: 1rem 3rem;
+font-size: 1.3rem;
+border: 0.1rem solid #608540;
+background: #bfe49f;
+color: #608540;
+cursor: pointer;
+text-transform: capitalize;
+text-decoration: none;
+}
+
+.btn:hover {
+background: #608540;
+color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
